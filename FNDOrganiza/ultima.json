@@ -1,0 +1,11 @@
+{
+ "formato": "FNDMAN1",
+ "app": "FNDOrganiza",
+ "versao": "2.4.4",
+ "modo": "avisar",
+ "publicado_em": "2026-10-22T16:24:16.448Z",
+ "arquivo": "FNDOrganiza_2.4.4.fndupd",
+ "tamanho": 4636250,
+ "sha256": "0076aaac95da75a3863d85c2b9e1f7446a3e0f0d66ce809c6bb2820087cdc92c",
+ "assinatura": "pWCxWNEvVLRRuNyfqYPI5drL4BvsOT+dWt346IEggFAbrp6MPDGpfadsFamyC7kFBt6mW+DOHnej4WKlLYO8AA=="
+}
