@@ -1,0 +1,11 @@
+{
+ "formato": "FNDMAN1",
+ "app": "FNDControleAcesso",
+ "versao": "1.6.6",
+ "modo": "avisar",
+ "publicado_em": "2026-10-22T14:47:16.055Z",
+ "arquivo": "FNDControleAcesso_1.6.6.fndupd",
+ "tamanho": 4684472,
+ "sha256": "4b8ec05ed133380eacb91833dd5d75f0a7a7ab5d726aec83e997f4fa8868b627",
+ "assinatura": "UiCx6X7vP7iXGDGW3PTthgmpQMoaiBKTLIOBk41GKXQhY9xwK6CrcOyaovxn6fqnPrsUjXnCKotYYJcL0C+SDg=="
+}
