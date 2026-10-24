@@ -1,0 +1,16 @@
+; Preços do FND Organiza — publicado pelo Assinador em 24/10/2026, 19:56:45. Não edite aqui (a assinatura deixa de valer).
+PRECO_VITALICIO = R$ 297
+TITULO_VITALICIO = Licença vitalícia • 1 computador
+DETALHE_VITALICIO = Pagamento único • 1 ano de atualizações incluso
+PRECO_ANUAL = R$ 197
+TITULO_ANUAL = Plano anual
+DETALHE_ANUAL = por ano • atualizações e suporte inclusos
+PRECO_MENSAL = R$ 39,90
+TITULO_MENSAL = Plano mensal
+DETALHE_MENSAL = por mês • atualizações e suporte enquanto o plano estiver ativo
+PRECO = R$ 297
+TITULO = Licença vitalícia • 1 computador
+DETALHE = Pagamento único • 1 ano de atualizações incluso
+WHATSAPP = 5511960124439
+MENSAGEM = Olá! Quero adquirir o FND Organiza.
+ASSINATURA = sN/I/bFpry5ZG5bOL0VIcjDV9sXgjXpwaTo+g4YVO7m2yQpnwc5/7nxWkUx5scnKI/QXGLFLYaivO52Berj0DQ==
