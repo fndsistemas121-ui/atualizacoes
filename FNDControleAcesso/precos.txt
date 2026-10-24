@@ -1,0 +1,16 @@
+; Preços do FND Controle de Acesso — publicado pelo Assinador em 24/10/2026, 19:55:58. Não edite aqui (a assinatura deixa de valer).
+PRECO_VITALICIO = R$ 897,99
+TITULO_VITALICIO = Licença vitalícia • 1 computador
+DETALHE_VITALICIO = Pagamento único • 1 ano de atualizações incluso
+PRECO_ANUAL = R$ 347,90
+TITULO_ANUAL = Plano anual
+DETALHE_ANUAL = por ano • atualizações e suporte inclusos
+PRECO_MENSAL = R$ 39,90
+TITULO_MENSAL = Plano mensal
+DETALHE_MENSAL = por mês • atualizações e suporte enquanto o plano estiver ativo
+PRECO = R$ 897,99
+TITULO = Licença vitalícia • 1 computador
+DETALHE = Pagamento único • 1 ano de atualizações incluso
+WHATSAPP = 5511960124439
+MENSAGEM = Olá! Quero adquirir o FND Controle de Acesso.
+ASSINATURA = 4yHRka5dEeNSjrO7B5KLjr0aq/V7HnudV1EAUq/KMHIw+j29AVdYPoAik3WhJpxGpGC33L2Bz+gYDFpP3jmoCQ==
