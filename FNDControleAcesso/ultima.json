@@ -1,11 +1,11 @@
 {
  "formato": "FNDMAN1",
  "app": "FNDControleAcesso",
- "versao": "1.7.3",
+ "versao": "1.7.4",
  "modo": "madrugada",
- "publicado_em": "2026-10-26T15:56:23.798Z",
- "arquivo": "FNDControleAcesso_1.7.3.fndupd",
- "tamanho": 4748408,
- "sha256": "bee36ce06028630157d3c3d7d71a731b2b80885700cdbdb5aacb4d0fd3f8e7de",
- "assinatura": "GI/jnl71b8OfzuJhl2tEFUf5dtlREJvH+CVSHKM1NsRJ+aeBzFE42C0UPoffpWF0d9FqtR22/5XCsxQRMBqmBA=="
+ "publicado_em": "2026-10-26T16:03:41.743Z",
+ "arquivo": "FNDControleAcesso_1.7.4.fndupd",
+ "tamanho": 4749215,
+ "sha256": "061653811c5f59f5d1fd14fbdae9fc4fbe7ae7dc6600977096868ec9905cc949",
+ "assinatura": "I+DteueKNG3yLPJaGHikaZehZw3vWtU4kGpeXiPxk5uyY26LM5pK45GrPfjZbIDLea3ZNUJdJGLsG0GtBw6RAw=="
 }
