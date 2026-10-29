@@ -1,0 +1,11 @@
+{
+ "formato": "FNDMAN1",
+ "app": "FNDControleAcessoPro",
+ "versao": "1.8.2",
+ "modo": "madrugada",
+ "publicado_em": "2026-10-29T17:00:30.685Z",
+ "arquivo": "FNDControleAcessoPro_1.8.2.fndupd",
+ "tamanho": 4854912,
+ "sha256": "b793b96e9542b4b993a7c5398be7659c69810846c4713383ff97bff777428235",
+ "assinatura": "vRCW0mdZ7XYYE4Tg7VktWCGRjnFTyiitqyd6rGwJaIDlhsYI3RUtR2qmUGaOPfhEYXXwE6XyVwDwPiSiXxJuBw=="
+}
