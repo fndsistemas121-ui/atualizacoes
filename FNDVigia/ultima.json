@@ -1,11 +1,11 @@
 {
  "formato": "FNDMAN1",
  "app": "FNDVigia",
- "versao": "1.0.5",
+ "versao": "1.0.6",
  "modo": "agora",
- "publicado_em": "2026-11-04T15:01:03.851Z",
- "arquivo": "FNDVigia_1.0.5.fndupd",
- "tamanho": 5283259,
- "sha256": "a9b1496e6336142f8648cd66a2c3c26b8ea69d52f7882a54d8e711c92c580f67",
- "assinatura": "5ZDoe6im5s+ELhVTSBRKuAoqgarOYER4Ml8IDr/PXtoBH1v7ABIXcvx5d3GBYif7LyFlPIcEV36IlhsUkpdKAg=="
+ "publicado_em": "2026-11-04T15:46:25.368Z",
+ "arquivo": "FNDVigia_1.0.6.fndupd",
+ "tamanho": 5283358,
+ "sha256": "b7d02b6d6e747c8da8f761e45782c52a54d31d5d765beb901a54403c508f1d22",
+ "assinatura": "dzK6FwA3UWJmpZ5AJXYhxHsIAWCP4zqMwQ9Cvyprk/JtWscCjmgRI1Qkek1dX7Q6PCj5Bkh7BPbSZ6qgXaTZCw=="
 }
