@@ -1,11 +1,11 @@
 {
  "formato": "FNDMAN1",
  "app": "FNDOrganiza",
- "versao": "2.5.5",
+ "versao": "2.5.6",
  "modo": "agora",
- "publicado_em": "2026-11-05T17:02:46.629Z",
- "arquivo": "FNDOrganiza_2.5.5.fndupd",
- "tamanho": 4737782,
- "sha256": "ef8c68f11152816b9dc51c0d3fdc5ee7768fca35ac9b2f7fe81b37e0622ea10f",
- "assinatura": "4yRUoKTpwQhbEx2SHl2aF7cN5CeNpfIuuAf2Joh4dlbvAtu9n6HHPQyORArZwPYq7EjDAuMg74BFbZcO40ylBQ=="
+ "publicado_em": "2026-11-06T16:48:13.429Z",
+ "arquivo": "FNDOrganiza_2.5.6.fndupd",
+ "tamanho": 4739825,
+ "sha256": "fbce4bee6063ac202784ff7b2e33502b4527217292d6d32a51f452bb6aa06c2a",
+ "assinatura": "+ts185wBOy5voN8njlVe8IOiTzt7qq8UPy9gIZbmOJUCB9fhRF9NBfqcVVEjiKXKjQ8W1/w7utvclZkJPLxIAQ=="
 }
