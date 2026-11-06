@@ -1,0 +1,11 @@
+{
+ "formato": "FNDMAN1",
+ "app": "FNDRemotoCentral",
+ "versao": "0.7.0",
+ "modo": "madrugada",
+ "publicado_em": "2026-11-06T23:34:47.298Z",
+ "arquivo": "FNDRemotoCentral_0.7.0.fndupd",
+ "tamanho": 1702216,
+ "sha256": "28161bc4e73a8ec4c5f0708a5f357f25e2eb073f58ec89694ef314dcb70b9245",
+ "assinatura": "UC1rjat8n/3/dzDk9AmpCrAo6eRxu65pP2iQ1zlbM/e47dwYyIWIYQGGzXyqQDBQNQ1Cghzxr4M6Ii5pNBvDDA=="
+}
