@@ -1,11 +1,11 @@
 {
  "formato": "FNDMAN1",
  "app": "FNDRemotoCentral",
- "versao": "0.7.0",
- "modo": "madrugada",
- "publicado_em": "2026-11-06T23:34:47.298Z",
- "arquivo": "FNDRemotoCentral_0.7.0.fndupd",
- "tamanho": 1702216,
- "sha256": "28161bc4e73a8ec4c5f0708a5f357f25e2eb073f58ec89694ef314dcb70b9245",
- "assinatura": "UC1rjat8n/3/dzDk9AmpCrAo6eRxu65pP2iQ1zlbM/e47dwYyIWIYQGGzXyqQDBQNQ1Cghzxr4M6Ii5pNBvDDA=="
+ "versao": "0.7.1",
+ "modo": "agora",
+ "publicado_em": "2026-11-07T00:10:50.957Z",
+ "arquivo": "FNDRemotoCentral_0.7.1.fndupd",
+ "tamanho": 31637858,
+ "sha256": "199244426bdbe20e992aa22a3b8e5943d2285d8ce198d26eb8a302b10a7d562e",
+ "assinatura": "2MKGWXdhIECKeNxB3simo55xnha18ELs1woACSQMpfz+ZylKo2OWHbrx74ibd5MdqkVZ9AvtPS/uYU3I1VCUBg=="
 }
