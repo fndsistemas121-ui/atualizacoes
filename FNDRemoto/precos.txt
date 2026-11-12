@@ -1,0 +1,16 @@
+; Preços do FND Remoto — publicado pelo Assinador em 12/11/2026, 09:29:00. Não edite aqui (a assinatura deixa de valer).
+PRECO_VITALICIO = R$987,90
+TITULO_VITALICIO = Licença vitalícia
+DETALHE_VITALICIO = Pagamento único • computadores ilimitados • 1 ano de atualizações
+PRECO_ANUAL = R$347,90
+TITULO_ANUAL = Plano anual
+DETALHE_ANUAL = por ano • computadores ilimitados • atualizações e suporte
+PRECO_MENSAL = R$39,90
+TITULO_MENSAL = Plano mensal
+DETALHE_MENSAL = por mês • computadores ilimitados • atualizações e suporte
+PRECO = R$987,90
+TITULO = Licença vitalícia
+DETALHE = Pagamento único • computadores ilimitados • 1 ano de atualizações
+WHATSAPP = 5511960124439
+MENSAGEM = Olá! Quero adquirir o FND Remoto.
+ASSINATURA = angfOJFdSjdQCgcspwopUCGUGEgZZuU9BqPFrj+0dlLgqCn7PPlct75lAH9sVnPyVHfLAMVPddzVfJWrvBGWCA==
