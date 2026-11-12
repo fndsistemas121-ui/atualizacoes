@@ -1,11 +1,28 @@
 {
  "formato": "FNDMAN1",
  "app": "FNDRemotoCentral",
- "versao": "0.8.0",
+ "versao": "0.10.5",
  "modo": "agora",
- "publicado_em": "2026-11-09T11:11:29.890Z",
- "arquivo": "FNDRemotoCentral_0.8.0.fndupd",
- "tamanho": 31667493,
- "sha256": "1e9d424f3691ce478d15bef7c5558637db2d8566cae5bfc1b0c4c464a8163e56",
- "assinatura": "RVtK7UWJacjNI05V3j3AgK1BxYcNIG4r9sFYW7v/nEStrmwObc7Y718kTS+ND8pfNEZG96mz0WPQ6NYujpssCw=="
+ "publicado_em": "2026-11-12T16:45:50.351Z",
+ "arquivo": "FNDRemotoCentral_0.10.5.fndupd",
+ "tamanho": 32998799,
+ "sha256": "bc76918cd46049a8499cf81568224b36a0916cabd0a2c7f852beeb0ba72af457",
+ "assinatura": "OK00atHmBc9hiQUocLvTjsL1LnI3wTz0m3Kv4lo47XwO3jfVmTqtcb1NxJTZtvi01Q0DwMPa8vnADDIl+IlBCw==",
+ "partes": [
+  {
+   "arquivo": "FNDRemotoCentral_0.10.5.fndupd.p1",
+   "tamanho": 15728640,
+   "sha256": "9ac3bc84bd0991d118fccd5659a217399b58a899d1da7a00f394b35a8c4c8839"
+  },
+  {
+   "arquivo": "FNDRemotoCentral_0.10.5.fndupd.p2",
+   "tamanho": 15728640,
+   "sha256": "1e504fea6ae5dcdf4aac29f2ad5ca43e53ab3dfe1c1eef8ae9cb3db091062e3c"
+  },
+  {
+   "arquivo": "FNDRemotoCentral_0.10.5.fndupd.p3",
+   "tamanho": 1541519,
+   "sha256": "ea4c481149d78af6ef78c213b0f651e6acec5d0c71061fffc4e3b83e2ccee63a"
+  }
+ ]
 }
