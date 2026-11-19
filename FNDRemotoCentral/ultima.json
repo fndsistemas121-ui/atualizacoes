@@ -1,28 +1,28 @@
 {
  "formato": "FNDMAN1",
  "app": "FNDRemotoCentral",
- "versao": "0.20.38",
+ "versao": "0.20.45",
  "modo": "agora",
- "publicado_em": "2026-11-17T20:25:13.407Z",
- "arquivo": "FNDRemotoCentral_0.20.38.fndupd",
- "tamanho": 36509839,
- "sha256": "4fb8ffde6dc86b714488049fc68afa3fdb54ef086e7031011968f9c59c3c891d",
- "assinatura": "B1B0Ps8PEH0rd9IjLS2oFhb81Lj36rlBOtbBZdXgfxTsyCj+48n4bC59bg1C8ZUtMHju9XiHR+uFUtKQUbSaDA==",
+ "publicado_em": "2026-11-19T17:23:36.174Z",
+ "arquivo": "FNDRemotoCentral_0.20.45.fndupd",
+ "tamanho": 36524819,
+ "sha256": "a3a17bf1d72ab7ff412058792532216f58909d8be5941f5bebafa236c6da8e16",
+ "assinatura": "fgpts8CcciYWiTI+fAooQzEDz3qdNFFcMeoxbRXNPpaEodmVl34XLvsEHM0ojg4qheCi3VwgBfIkXFfCkugGDQ==",
  "partes": [
   {
-   "arquivo": "FNDRemotoCentral_0.20.38.fndupd.p1",
+   "arquivo": "FNDRemotoCentral_0.20.45.fndupd.p1",
    "tamanho": 15728640,
-   "sha256": "404e6f47a3dcce96fd1fc81c7888b3880b4e06390a2efc8c3665bab09c78634a"
+   "sha256": "acbec8e24e1991ed8e33c74885272dbeb768fd63f43b82209bd5b10a12a10335"
   },
   {
-   "arquivo": "FNDRemotoCentral_0.20.38.fndupd.p2",
+   "arquivo": "FNDRemotoCentral_0.20.45.fndupd.p2",
    "tamanho": 15728640,
-   "sha256": "102514a0ac8b4130870b143e88a5c9a463026dc57d67ce1861bb4f229e563712"
+   "sha256": "dd20a3d8c9892f0fb37545ba1cfd2b434be8908420d2d9dc674217554b960a67"
   },
   {
-   "arquivo": "FNDRemotoCentral_0.20.38.fndupd.p3",
-   "tamanho": 5052559,
-   "sha256": "80ab82d30b6d723cbb65d91ad43ba891d35a7fd9b008cc878a6bc5638c3e0c98"
+   "arquivo": "FNDRemotoCentral_0.20.45.fndupd.p3",
+   "tamanho": 5067539,
+   "sha256": "9de97d5a056f589a7f9317f2810cf9d9f0f59089fdf560cdaaf9cc0d771d0871"
   }
  ]
 }
