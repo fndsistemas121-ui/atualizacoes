@@ -3,11 +3,11 @@
  "app": "FNDRemotoCentral",
  "versao": "0.20.45",
  "modo": "agora",
- "publicado_em": "2026-11-19T17:23:36.174Z",
+ "publicado_em": "2026-11-21T20:53:12.590Z",
  "arquivo": "FNDRemotoCentral_0.20.45.fndupd",
  "tamanho": 36524819,
  "sha256": "a3a17bf1d72ab7ff412058792532216f58909d8be5941f5bebafa236c6da8e16",
- "assinatura": "fgpts8CcciYWiTI+fAooQzEDz3qdNFFcMeoxbRXNPpaEodmVl34XLvsEHM0ojg4qheCi3VwgBfIkXFfCkugGDQ==",
+ "assinatura": "x9/gWGO2RrSDyO9s0XWb9qETfztU4K3jl8LoKS/FpY8lQi3i0O/cEDrPtCLbwD//XasTVf/u7N9PZvVC6TYkDg==",
  "partes": [
   {
    "arquivo": "FNDRemotoCentral_0.20.45.fndupd.p1",
