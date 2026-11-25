@@ -1,11 +1,11 @@
 {
  "formato": "FNDMAN1",
  "app": "FNDInspecaoCentral",
- "versao": "1.2.5",
+ "versao": "1.2.6",
  "modo": "agora",
- "publicado_em": "2026-11-25T12:33:55.914Z",
- "arquivo": "FNDInspecaoCentral_1.2.5.fndupd",
- "tamanho": 5327476,
- "sha256": "57cfc1ee4482c4f3f7a879d9488debe818840e7f678ce0aaf524bca66f6e5b41",
- "assinatura": "qMBS/VhAnIyMHkv6FlZJ8txbjocm6yNRgH5y3OsB2iVT1ft9+Q2yHSLhUS44PEYTJGGekn5EgZ0hHYzJmzoaBg=="
+ "publicado_em": "2026-11-25T13:49:46.071Z",
+ "arquivo": "FNDInspecaoCentral_1.2.6.fndupd",
+ "tamanho": 5335510,
+ "sha256": "6275ab9fa1298d9aab49c7928a8f648b3ba25dcc6a8696c57a0865cc3e584f65",
+ "assinatura": "rk4Y2Oty057o1xONhY1hic/EodOL+/3lDd4SdloybHkOnq9rCAZOZhIV7aMLjDr/U3R2PPU5UsnhAMppNX7vBA=="
 }
