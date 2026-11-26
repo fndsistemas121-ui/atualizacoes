@@ -1,0 +1,16 @@
+; Preços do FND Inspeção — publicado pelo Assinador em 26/11/2026, 00:02:11. Não edite aqui (a assinatura deixa de valer).
+PRECO_VITALICIO = R$997,00
+TITULO_VITALICIO = Licença vitalícia • 1 computador
+DETALHE_VITALICIO = Pagamento único • celulares ilimitados • 1 ano de atualizações
+PRECO_ANUAL = R$397,00
+TITULO_ANUAL = Plano anual
+DETALHE_ANUAL = por ano • celulares ilimitados • atualizações e suporte
+PRECO_MENSAL = RR$49,90
+TITULO_MENSAL = Plano mensal
+DETALHE_MENSAL = por mês • celulares ilimitados • atualizações e suporte
+PRECO = R$997,00
+TITULO = Licença vitalícia • 1 computador
+DETALHE = Pagamento único • celulares ilimitados • 1 ano de atualizações
+WHATSAPP = 5511960124439
+MENSAGEM = Olá! Quero adquirir o FND Inspeção.
+ASSINATURA = Un0x65s/i6/2e5/MaLCQxPJbhUSt11zhXFqSeh3Ozl+L0RZhmqxk4gJxRyVBNMkt9e3gylXJzgMiY++tPBMbCw==
